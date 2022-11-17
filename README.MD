@@ -135,32 +135,6 @@ Inicie o servidor
 
 <br>
 
-## Rodando localmente
-
-Clone o projeto
-
-```bash
-  git clone https://github.com/jonathannrocha/api-login-refresh-token
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd api-login-refresh-token
-```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run dev
-```
-<br>
 
 ## Licença
 
